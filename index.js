@@ -1,4 +1,4 @@
 const echoAgain = (data) => {
-  console.log(data)
+  console.log(data);
 }
 module.exports = echoAgain;
